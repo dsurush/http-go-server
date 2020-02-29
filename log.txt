@@ -1,0 +1,2905 @@
+2020/02/29 22:51:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:51:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:51:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:51:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:51:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:51:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:51:04 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:51:04 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:51:04 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:51:05 GET /http.jpg?download HTTP/1.1
+
+2020/02/29 22:51:05 [GET /http.jpg?download HTTP/1.1]
+2020/02/29 22:51:07 GET / HTTP/1.1
+
+2020/02/29 22:51:07 [GET / HTTP/1.1]
+2020/02/29 22:51:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:51:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:51:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:51:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:51:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:51:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:51:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:16 GET / HTTP/1.1
+
+2020/02/29 22:52:16 [GET / HTTP/1.1]
+2020/02/29 22:52:16 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:16 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:16 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:16 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:17 GET / HTTP/1.1
+
+2020/02/29 22:52:17 [GET / HTTP/1.1]
+2020/02/29 22:52:17 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:17 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:17 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:17 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:17 GET / HTTP/1.1
+
+2020/02/29 22:52:17 [GET / HTTP/1.1]
+2020/02/29 22:52:17 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:17 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:17 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:17 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:17 GET / HTTP/1.1
+
+2020/02/29 22:52:17 [GET / HTTP/1.1]
+2020/02/29 22:52:17 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:17 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:17 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:17 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:18 GET / HTTP/1.1
+
+2020/02/29 22:52:18 [GET / HTTP/1.1]
+2020/02/29 22:52:18 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:18 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:18 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:18 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:18 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:18 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:18 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:19 GET /http.jpg?download HTTP/1.1
+
+2020/02/29 22:52:19 [GET /http.jpg?download HTTP/1.1]
+2020/02/29 22:52:40 GET / HTTP/1.1
+
+2020/02/29 22:52:40 [GET / HTTP/1.1]
+2020/02/29 22:52:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:41 GET / HTTP/1.1
+
+2020/02/29 22:52:41 [GET / HTTP/1.1]
+2020/02/29 22:52:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:41 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:41 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:41 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:42 GET / HTTP/1.1
+
+2020/02/29 22:52:42 [GET / HTTP/1.1]
+2020/02/29 22:52:42 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:42 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:42 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:42 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:42 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:42 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:42 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:43 GET / HTTP/1.1
+
+2020/02/29 22:52:43 [GET / HTTP/1.1]
+2020/02/29 22:52:43 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:43 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:43 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:43 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:43 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:43 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:43 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:43 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:43 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:44 GET / HTTP/1.1
+
+2020/02/29 22:52:44 [GET / HTTP/1.1]
+2020/02/29 22:52:44 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:44 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:44 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:44 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:44 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:44 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:44 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:44 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:44 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:52:45 GET / HTTP/1.1
+
+2020/02/29 22:52:45 [GET / HTTP/1.1]
+2020/02/29 22:52:46 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:46 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:46 GET /download.png HTTP/1.1
+
+2020/02/29 22:52:46 [GET /download.png HTTP/1.1]
+2020/02/29 22:52:46 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:52:46 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:52:46 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:04 GET / HTTP/1.1
+
+2020/02/29 22:53:04 [GET / HTTP/1.1]
+2020/02/29 22:53:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:04 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:04 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:04 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:04 GET / HTTP/1.1
+
+2020/02/29 22:53:04 [GET / HTTP/1.1]
+2020/02/29 22:53:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:04 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:04 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:04 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:05 GET / HTTP/1.1
+
+2020/02/29 22:53:05 [GET / HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:05 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:05 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:05 GET / HTTP/1.1
+
+2020/02/29 22:53:05 [GET / HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:05 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:05 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:05 GET / HTTP/1.1
+
+2020/02/29 22:53:05 [GET / HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:05 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:05 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:05 GET / HTTP/1.1
+
+2020/02/29 22:53:05 [GET / HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:05 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:05 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:05 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:06 GET / HTTP/1.1
+
+2020/02/29 22:53:06 [GET / HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:06 GET / HTTP/1.1
+
+2020/02/29 22:53:06 [GET / HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:06 GET / HTTP/1.1
+
+2020/02/29 22:53:06 [GET / HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:06 GET / HTTP/1.1
+
+2020/02/29 22:53:06 [GET / HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:06 GET / HTTP/1.1
+
+2020/02/29 22:53:06 [GET / HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:07 GET / HTTP/1.1
+
+2020/02/29 22:53:07 [GET / HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:07 GET / HTTP/1.1
+
+2020/02/29 22:53:07 [GET / HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:07 GET / HTTP/1.1
+
+2020/02/29 22:53:07 [GET / HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:07 GET / HTTP/1.1
+
+2020/02/29 22:53:07 [GET / HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:08 GET / HTTP/1.1
+
+2020/02/29 22:53:08 [GET / HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:08 GET / HTTP/1.1
+
+2020/02/29 22:53:08 [GET / HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:08 GET / HTTP/1.1
+
+2020/02/29 22:53:08 [GET / HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:08 GET / HTTP/1.1
+
+2020/02/29 22:53:08 [GET / HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:08 GET / HTTP/1.1
+
+2020/02/29 22:53:08 [GET / HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:08 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:13 GET / HTTP/1.1
+
+2020/02/29 22:53:13 [GET / HTTP/1.1]
+2020/02/29 22:53:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:13 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:13 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:13 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:14 GET / HTTP/1.1
+
+2020/02/29 22:53:14 [GET / HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:14 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:14 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:14 GET / HTTP/1.1
+
+2020/02/29 22:53:14 [GET / HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:14 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:14 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:14 GET / HTTP/1.1
+
+2020/02/29 22:53:14 [GET / HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:14 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:14 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:14 GET / HTTP/1.1
+
+2020/02/29 22:53:14 [GET / HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:14 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:14 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:14 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:14 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:15 GET / HTTP/1.1
+
+2020/02/29 22:53:15 [GET / HTTP/1.1]
+2020/02/29 22:53:15 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:15 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:15 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:15 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:15 GET / HTTP/1.1
+
+2020/02/29 22:53:15 [GET / HTTP/1.1]
+2020/02/29 22:53:15 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:15 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:15 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:15 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:30 GET / HTTP/1.1
+
+2020/02/29 22:53:30 [GET / HTTP/1.1]
+2020/02/29 22:53:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:30 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:30 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:30 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:35 GET / HTTP/1.1
+
+2020/02/29 22:53:35 [GET / HTTP/1.1]
+2020/02/29 22:53:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:35 GET / HTTP/1.1
+
+2020/02/29 22:53:35 [GET / HTTP/1.1]
+2020/02/29 22:53:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:35 GET / HTTP/1.1
+
+2020/02/29 22:53:35 [GET / HTTP/1.1]
+2020/02/29 22:53:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:36 GET / HTTP/1.1
+
+2020/02/29 22:53:36 [GET / HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:36 GET / HTTP/1.1
+
+2020/02/29 22:53:36 [GET / HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:36 GET / HTTP/1.1
+
+2020/02/29 22:53:36 [GET / HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:36 GET / HTTP/1.1
+
+2020/02/29 22:53:36 [GET / HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:37 GET / HTTP/1.1
+
+2020/02/29 22:53:37 [GET / HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:37 GET / HTTP/1.1
+
+2020/02/29 22:53:37 [GET / HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:37 GET / HTTP/1.1
+
+2020/02/29 22:53:37 [GET / HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:37 GET / HTTP/1.1
+
+2020/02/29 22:53:37 [GET / HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:37 GET / HTTP/1.1
+
+2020/02/29 22:53:37 [GET / HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:53:38 GET / HTTP/1.1
+
+2020/02/29 22:53:38 [GET / HTTP/1.1]
+2020/02/29 22:53:38 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:38 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:38 GET /download.png HTTP/1.1
+
+2020/02/29 22:53:38 [GET /download.png HTTP/1.1]
+2020/02/29 22:53:38 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:53:38 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:53:38 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:04 GET / HTTP/1.1
+
+2020/02/29 22:54:04 [GET / HTTP/1.1]
+2020/02/29 22:54:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:04 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:04 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:04 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:04 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:04 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:05 GET / HTTP/1.1
+
+2020/02/29 22:54:05 [GET / HTTP/1.1]
+2020/02/29 22:54:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:05 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:05 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:05 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:05 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:05 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:06 GET / HTTP/1.1
+
+2020/02/29 22:54:06 [GET / HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:06 GET / HTTP/1.1
+
+2020/02/29 22:54:06 [GET / HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:06 GET / HTTP/1.1
+
+2020/02/29 22:54:06 [GET / HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:06 GET / HTTP/1.1
+
+2020/02/29 22:54:06 [GET / HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:06 GET / HTTP/1.1
+
+2020/02/29 22:54:06 [GET / HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:06 GET / HTTP/1.1
+
+2020/02/29 22:54:06 [GET / HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:06 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:06 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:07 GET / HTTP/1.1
+
+2020/02/29 22:54:07 [GET / HTTP/1.1]
+2020/02/29 22:54:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:07 GET / HTTP/1.1
+
+2020/02/29 22:54:07 [GET / HTTP/1.1]
+2020/02/29 22:54:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:09 GET / HTTP/1.1
+
+2020/02/29 22:54:09 [GET / HTTP/1.1]
+2020/02/29 22:54:09 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:09 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:09 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:09 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:09 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:09 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:09 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:09 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:09 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:54:42 GET / HTTP/1.1
+
+2020/02/29 22:54:42 [GET / HTTP/1.1]
+2020/02/29 22:54:42 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:42 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:42 GET /download.png HTTP/1.1
+
+2020/02/29 22:54:42 [GET /download.png HTTP/1.1]
+2020/02/29 22:54:42 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:54:42 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:54:42 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:27 GET / HTTP/1.1
+
+2020/02/29 22:55:27 [GET / HTTP/1.1]
+2020/02/29 22:55:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:27 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:27 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:27 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:27 GET / HTTP/1.1
+
+2020/02/29 22:55:27 [GET / HTTP/1.1]
+2020/02/29 22:55:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:27 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:27 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:27 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:27 GET / HTTP/1.1
+
+2020/02/29 22:55:27 [GET / HTTP/1.1]
+2020/02/29 22:55:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:27 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:27 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:27 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:28 GET / HTTP/1.1
+
+2020/02/29 22:55:28 [GET / HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:28 GET / HTTP/1.1
+
+2020/02/29 22:55:28 [GET / HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:28 GET / HTTP/1.1
+
+2020/02/29 22:55:28 [GET / HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:28 GET / HTTP/1.1
+
+2020/02/29 22:55:28 [GET / HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:29 GET / HTTP/1.1
+
+2020/02/29 22:55:29 [GET / HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:29 GET / HTTP/1.1
+
+2020/02/29 22:55:29 [GET / HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:29 GET / HTTP/1.1
+
+2020/02/29 22:55:29 [GET / HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:29 GET / HTTP/1.1
+
+2020/02/29 22:55:29 [GET / HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:29 GET / HTTP/1.1
+
+2020/02/29 22:55:29 [GET / HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:29 GET / HTTP/1.1
+
+2020/02/29 22:55:29 [GET / HTTP/1.1]
+2020/02/29 22:55:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:30 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:30 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:30 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:47 GET / HTTP/1.1
+
+2020/02/29 22:55:47 [GET / HTTP/1.1]
+2020/02/29 22:55:47 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:47 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:47 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:47 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:47 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:47 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:47 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:47 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:47 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:47 GET / HTTP/1.1
+
+2020/02/29 22:55:47 [GET / HTTP/1.1]
+2020/02/29 22:55:47 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:47 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:47 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:47 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:47 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:47 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:47 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:47 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:47 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:48 GET / HTTP/1.1
+
+2020/02/29 22:55:48 [GET / HTTP/1.1]
+2020/02/29 22:55:48 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:48 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:48 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:48 GET / HTTP/1.1
+
+2020/02/29 22:55:48 [GET / HTTP/1.1]
+2020/02/29 22:55:48 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:48 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:48 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:48 GET / HTTP/1.1
+
+2020/02/29 22:55:48 [GET / HTTP/1.1]
+2020/02/29 22:55:48 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:48 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:48 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:48 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:48 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:48 GET / HTTP/1.1
+
+2020/02/29 22:55:48 [GET / HTTP/1.1]
+2020/02/29 22:55:49 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:49 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:49 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:49 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:49 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:49 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:49 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:49 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:49 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:57 GET /http.txt HTTP/1.1
+
+2020/02/29 22:55:57 [GET /http.txt HTTP/1.1]
+2020/02/29 22:55:57 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:57 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:57 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:55:59 GET / HTTP/1.1
+
+2020/02/29 22:55:59 [GET / HTTP/1.1]
+2020/02/29 22:55:59 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:59 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:59 GET /download.png HTTP/1.1
+
+2020/02/29 22:55:59 [GET /download.png HTTP/1.1]
+2020/02/29 22:55:59 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:55:59 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:55:59 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:55:59 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:55:59 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:27 GET / HTTP/1.1
+
+2020/02/29 22:56:27 [GET / HTTP/1.1]
+2020/02/29 22:56:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:27 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:27 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:27 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:27 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:27 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:28 GET / HTTP/1.1
+
+2020/02/29 22:56:28 [GET / HTTP/1.1]
+2020/02/29 22:56:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:28 GET / HTTP/1.1
+
+2020/02/29 22:56:28 [GET / HTTP/1.1]
+2020/02/29 22:56:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:28 GET / HTTP/1.1
+
+2020/02/29 22:56:28 [GET / HTTP/1.1]
+2020/02/29 22:56:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:28 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:28 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:28 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:28 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:28 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:29 GET / HTTP/1.1
+
+2020/02/29 22:56:29 [GET / HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:29 GET / HTTP/1.1
+
+2020/02/29 22:56:29 [GET / HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:29 GET / HTTP/1.1
+
+2020/02/29 22:56:29 [GET / HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:29 GET / HTTP/1.1
+
+2020/02/29 22:56:29 [GET / HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:29 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:29 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:29 GET / HTTP/1.1
+
+2020/02/29 22:56:29 [GET / HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:29 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:29 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:30 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:30 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:30 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:30 GET / HTTP/1.1
+
+2020/02/29 22:56:30 [GET / HTTP/1.1]
+2020/02/29 22:56:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:30 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:30 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:30 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:30 GET / HTTP/1.1
+
+2020/02/29 22:56:30 [GET / HTTP/1.1]
+2020/02/29 22:56:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:30 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:30 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:30 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:30 GET / HTTP/1.1
+
+2020/02/29 22:56:30 [GET / HTTP/1.1]
+2020/02/29 22:56:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:30 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:30 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:31 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:31 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:31 GET / HTTP/1.1
+
+2020/02/29 22:56:31 [GET / HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:31 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:31 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:31 GET / HTTP/1.1
+
+2020/02/29 22:56:31 [GET / HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:31 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:31 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:31 GET / HTTP/1.1
+
+2020/02/29 22:56:31 [GET / HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:31 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:31 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:31 GET / HTTP/1.1
+
+2020/02/29 22:56:31 [GET / HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:32 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:32 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:32 GET / HTTP/1.1
+
+2020/02/29 22:56:32 [GET / HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:32 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:32 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:32 GET / HTTP/1.1
+
+2020/02/29 22:56:32 [GET / HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:32 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:32 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:32 GET / HTTP/1.1
+
+2020/02/29 22:56:32 [GET / HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:32 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:32 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:32 GET / HTTP/1.1
+
+2020/02/29 22:56:32 [GET / HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:33 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:33 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:33 GET / HTTP/1.1
+
+2020/02/29 22:56:33 [GET / HTTP/1.1]
+2020/02/29 22:56:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:33 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:33 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:33 GET / HTTP/1.1
+
+2020/02/29 22:56:33 [GET / HTTP/1.1]
+2020/02/29 22:56:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:33 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:33 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:33 GET / HTTP/1.1
+
+2020/02/29 22:56:33 [GET / HTTP/1.1]
+2020/02/29 22:56:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:33 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:33 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:33 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:56:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:41 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:41 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:46 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:46 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:46 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:46 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:46 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:46 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:48 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:48 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:48 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:48 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:48 GET /download.png HTTP/1.1
+
+2020/02/29 22:56:48 [GET /download.png HTTP/1.1]
+2020/02/29 22:56:55 GET /http.png HTTP/1.1
+
+2020/02/29 22:56:55 [GET /http.png HTTP/1.1]
+2020/02/29 22:56:55 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:56:55 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:56:55 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:06 GET / HTTP/1.1
+
+2020/02/29 22:57:06 [GET / HTTP/1.1]
+2020/02/29 22:57:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:07 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:07 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:31 GET / HTTP/1.1
+
+2020/02/29 22:57:31 [GET / HTTP/1.1]
+2020/02/29 22:57:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:31 GET / HTTP/1.1
+
+2020/02/29 22:57:31 [GET / HTTP/1.1]
+2020/02/29 22:57:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:31 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:31 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:31 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:31 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:31 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:32 GET / HTTP/1.1
+
+2020/02/29 22:57:32 [GET / HTTP/1.1]
+2020/02/29 22:57:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:32 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:32 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:32 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:32 GET / HTTP/1.1
+
+2020/02/29 22:57:32 [GET / HTTP/1.1]
+2020/02/29 22:57:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:32 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:32 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:32 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:32 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:32 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:33 GET / HTTP/1.1
+
+2020/02/29 22:57:33 [GET / HTTP/1.1]
+2020/02/29 22:57:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:33 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:33 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:33 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:33 GET / HTTP/1.1
+
+2020/02/29 22:57:33 [GET / HTTP/1.1]
+2020/02/29 22:57:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:33 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:33 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:33 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:33 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:33 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:34 GET / HTTP/1.1
+
+2020/02/29 22:57:34 [GET / HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:34 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:34 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:34 GET / HTTP/1.1
+
+2020/02/29 22:57:34 [GET / HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:34 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:34 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:34 GET / HTTP/1.1
+
+2020/02/29 22:57:34 [GET / HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:34 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:34 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:34 GET / HTTP/1.1
+
+2020/02/29 22:57:34 [GET / HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:34 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:34 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:34 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:34 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:35 GET / HTTP/1.1
+
+2020/02/29 22:57:35 [GET / HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:35 GET / HTTP/1.1
+
+2020/02/29 22:57:35 [GET / HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:35 GET / HTTP/1.1
+
+2020/02/29 22:57:35 [GET / HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:35 GET / HTTP/1.1
+
+2020/02/29 22:57:35 [GET / HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:57:35 GET / HTTP/1.1
+
+2020/02/29 22:57:35 [GET / HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /download.png HTTP/1.1
+
+2020/02/29 22:57:35 [GET /download.png HTTP/1.1]
+2020/02/29 22:57:35 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:57:35 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:57:35 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:12 GET / HTTP/1.1
+
+2020/02/29 22:58:12 [GET / HTTP/1.1]
+2020/02/29 22:58:12 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:12 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:12 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:12 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:12 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:12 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:12 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:12 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:12 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:13 GET / HTTP/1.1
+
+2020/02/29 22:58:13 [GET / HTTP/1.1]
+2020/02/29 22:58:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:13 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:13 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:13 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:13 GET / HTTP/1.1
+
+2020/02/29 22:58:13 [GET / HTTP/1.1]
+2020/02/29 22:58:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:13 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:13 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:13 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:13 GET / HTTP/1.1
+
+2020/02/29 22:58:13 [GET / HTTP/1.1]
+2020/02/29 22:58:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:13 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:13 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:13 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:13 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:13 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:36 GET / HTTP/1.1
+
+2020/02/29 22:58:36 [GET / HTTP/1.1]
+2020/02/29 22:58:36 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:36 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:36 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:36 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:36 GET / HTTP/1.1
+
+2020/02/29 22:58:36 [GET / HTTP/1.1]
+2020/02/29 22:58:36 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:36 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:36 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:36 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:36 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:36 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:37 GET / HTTP/1.1
+
+2020/02/29 22:58:37 [GET / HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:37 GET / HTTP/1.1
+
+2020/02/29 22:58:37 [GET / HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:37 GET / HTTP/1.1
+
+2020/02/29 22:58:37 [GET / HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:37 GET / HTTP/1.1
+
+2020/02/29 22:58:37 [GET / HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:37 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:37 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:37 GET / HTTP/1.1
+
+2020/02/29 22:58:37 [GET / HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:37 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:37 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:38 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:38 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:38 GET / HTTP/1.1
+
+2020/02/29 22:58:38 [GET / HTTP/1.1]
+2020/02/29 22:58:38 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:38 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:38 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:38 GET / HTTP/1.1
+
+2020/02/29 22:58:38 [GET / HTTP/1.1]
+2020/02/29 22:58:38 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:38 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:38 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:38 GET / HTTP/1.1
+
+2020/02/29 22:58:38 [GET / HTTP/1.1]
+2020/02/29 22:58:38 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:38 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:38 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:38 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:38 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:39 GET / HTTP/1.1
+
+2020/02/29 22:58:39 [GET / HTTP/1.1]
+2020/02/29 22:58:39 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:39 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:39 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:39 GET / HTTP/1.1
+
+2020/02/29 22:58:39 [GET / HTTP/1.1]
+2020/02/29 22:58:39 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:39 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:39 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:39 GET / HTTP/1.1
+
+2020/02/29 22:58:39 [GET / HTTP/1.1]
+2020/02/29 22:58:39 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:39 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:39 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:39 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:39 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:40 GET / HTTP/1.1
+
+2020/02/29 22:58:40 [GET / HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:40 GET / HTTP/1.1
+
+2020/02/29 22:58:40 [GET / HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:40 GET / HTTP/1.1
+
+2020/02/29 22:58:40 [GET / HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:40 GET / HTTP/1.1
+
+2020/02/29 22:58:40 [GET / HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 22:58:40 GET / HTTP/1.1
+
+2020/02/29 22:58:40 [GET / HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /files/download.png HTTP/1.1
+
+2020/02/29 22:58:40 [GET /files/download.png HTTP/1.1]
+2020/02/29 22:58:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 22:58:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 22:58:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:04 GET / HTTP/1.1
+
+2020/02/29 23:01:04 [GET / HTTP/1.1]
+2020/02/29 23:01:04 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:04 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:04 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:04 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:04 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:04 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:04 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:04 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:04 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:05 GET / HTTP/1.1
+
+2020/02/29 23:01:05 [GET / HTTP/1.1]
+2020/02/29 23:01:05 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:05 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:05 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:05 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:05 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:05 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:05 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:05 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:05 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:06 GET / HTTP/1.1
+
+2020/02/29 23:01:06 [GET / HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:06 GET / HTTP/1.1
+
+2020/02/29 23:01:06 [GET / HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:06 GET / HTTP/1.1
+
+2020/02/29 23:01:06 [GET / HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:06 GET / HTTP/1.1
+
+2020/02/29 23:01:06 [GET / HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:06 GET / HTTP/1.1
+
+2020/02/29 23:01:06 [GET / HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:06 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:06 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:06 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:06 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:06 GET / HTTP/1.1
+
+2020/02/29 23:01:06 [GET / HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:07 GET / HTTP/1.1
+
+2020/02/29 23:01:07 [GET / HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:07 GET / HTTP/1.1
+
+2020/02/29 23:01:07 [GET / HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:07 GET / HTTP/1.1
+
+2020/02/29 23:01:07 [GET / HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:07 GET / HTTP/1.1
+
+2020/02/29 23:01:07 [GET / HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:07 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:07 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:07 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:07 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:07 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:08 GET / HTTP/1.1
+
+2020/02/29 23:01:08 [GET / HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:08 GET / HTTP/1.1
+
+2020/02/29 23:01:08 [GET / HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:08 GET / HTTP/1.1
+
+2020/02/29 23:01:08 [GET / HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:08 GET / HTTP/1.1
+
+2020/02/29 23:01:08 [GET / HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:08 GET / HTTP/1.1
+
+2020/02/29 23:01:08 [GET / HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:01:08 GET / HTTP/1.1
+
+2020/02/29 23:01:08 [GET / HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /download.png HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.png HTTP/1.1]
+2020/02/29 23:01:08 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:01:08 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:01:08 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:01:08 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:01:08 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:13 GET / HTTP/1.1
+
+2020/02/29 23:03:13 [GET / HTTP/1.1]
+2020/02/29 23:03:13 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:13 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:13 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:13 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:13 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:13 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:13 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:13 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:13 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:13 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:13 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:13 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:13 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:14 GET / HTTP/1.1
+
+2020/02/29 23:03:14 [GET / HTTP/1.1]
+2020/02/29 23:03:14 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:14 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:14 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:14 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:14 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:14 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:14 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:14 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:14 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:14 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:14 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:15 GET / HTTP/1.1
+
+2020/02/29 23:03:15 [GET / HTTP/1.1]
+2020/02/29 23:03:15 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:15 GET / HTTP/1.1
+
+2020/02/29 23:03:15 [GET / HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:15 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:15 GET / HTTP/1.1
+
+2020/02/29 23:03:15 [GET / HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:15 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:15 GET / HTTP/1.1
+
+2020/02/29 23:03:15 [GET / HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:15 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:15 GET / HTTP/1.1
+
+2020/02/29 23:03:15 [GET / HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:15 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:15 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:15 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:15 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:15 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:15 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:15 GET / HTTP/1.1
+
+2020/02/29 23:03:15 [GET / HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:16 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:16 GET / HTTP/1.1
+
+2020/02/29 23:03:16 [GET / HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:16 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:16 GET / HTTP/1.1
+
+2020/02/29 23:03:16 [GET / HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:16 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:16 GET / HTTP/1.1
+
+2020/02/29 23:03:16 [GET / HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:16 GET / HTTP/1.1
+
+2020/02/29 23:03:16 [GET / HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:16 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:16 GET / HTTP/1.1
+
+2020/02/29 23:03:16 [GET / HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:16 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:16 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:16 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:16 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:16 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:17 GET / HTTP/1.1
+
+2020/02/29 23:03:17 [GET / HTTP/1.1]
+2020/02/29 23:03:17 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:17 GET / HTTP/1.1
+
+2020/02/29 23:03:17 [GET / HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:17 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:17 GET / HTTP/1.1
+
+2020/02/29 23:03:17 [GET / HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:17 GET / HTTP/1.1
+
+2020/02/29 23:03:17 [GET / HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:17 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:17 GET / HTTP/1.1
+
+2020/02/29 23:03:17 [GET / HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:03:17 GET / HTTP/1.1
+
+2020/02/29 23:03:17 [GET / HTTP/1.1]
+2020/02/29 23:03:17 GET /download.png HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.png HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:03:17 GET /download.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /download.ico HTTP/1.1]
+2020/02/29 23:03:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:03:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:03:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:04:03 GET / HTTP/1.1
+
+2020/02/29 23:04:03 [GET / HTTP/1.1]
+2020/02/29 23:04:03 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:04:03 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:04:03 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:04:03 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:04:03 GET /download.png HTTP/1.1
+
+2020/02/29 23:04:03 [GET /download.png HTTP/1.1]
+2020/02/29 23:04:03 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:04:03 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:04:03 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:04:04 GET / HTTP/1.1
+
+2020/02/29 23:04:04 [GET / HTTP/1.1]
+2020/02/29 23:04:04 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:04:04 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:04:04 GET /download.png HTTP/1.1
+
+2020/02/29 23:04:04 [GET /download.png HTTP/1.1]
+2020/02/29 23:04:04 GET /download.jpg HTTP/1.1
+
+2020/02/29 23:04:04 [GET /download.jpg HTTP/1.1]
+2020/02/29 23:04:04 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:04:04 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:04:04 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:05:19 GET / HTTP/1.1
+
+2020/02/29 23:05:19 [GET / HTTP/1.1]
+2020/02/29 23:05:19 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:05:19 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:05:19 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:05:44 GET / HTTP/1.1
+
+2020/02/29 23:05:44 [GET / HTTP/1.1]
+2020/02/29 23:05:44 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:05:44 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:05:44 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:05:55 GET / HTTP/1.1
+
+2020/02/29 23:05:55 [GET / HTTP/1.1]
+2020/02/29 23:05:55 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:05:55 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:05:55 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:06:03 GET / HTTP/1.1
+
+2020/02/29 23:06:03 [GET / HTTP/1.1]
+2020/02/29 23:06:03 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:06:03 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:06:03 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:06:12 GET / HTTP/1.1
+
+2020/02/29 23:06:12 [GET / HTTP/1.1]
+2020/02/29 23:06:12 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:06:12 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:06:12 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:06:17 GET / HTTP/1.1
+
+2020/02/29 23:06:17 [GET / HTTP/1.1]
+2020/02/29 23:06:17 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:06:17 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:06:17 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:06:27 GET / HTTP/1.1
+
+2020/02/29 23:06:27 [GET / HTTP/1.1]
+2020/02/29 23:06:27 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:06:27 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:06:27 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:06:36 GET / HTTP/1.1
+
+2020/02/29 23:06:36 [GET / HTTP/1.1]
+2020/02/29 23:06:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:06:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:06:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:06:40 GET / HTTP/1.1
+
+2020/02/29 23:06:40 [GET / HTTP/1.1]
+2020/02/29 23:06:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:06:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:06:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:07:18 GET / HTTP/1.1
+
+2020/02/29 23:07:18 [GET / HTTP/1.1]
+2020/02/29 23:07:18 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:07:18 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:07:18 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:07:24 GET /Go08.pdf?download HTTP/1.1
+
+2020/02/29 23:07:24 [GET /Go08.pdf?download HTTP/1.1]
+2020/02/29 23:08:23 GET / HTTP/1.1
+
+2020/02/29 23:08:23 [GET / HTTP/1.1]
+2020/02/29 23:08:23 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:08:23 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:08:23 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:34 GET /http.txt HTTP/1.1
+
+2020/02/29 23:09:34 [GET /http.txt HTTP/1.1]
+2020/02/29 23:09:34 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:09:34 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:09:34 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:09:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:09:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:38 GET /http.png HTTP/1.1
+
+2020/02/29 23:09:38 [GET /http.png HTTP/1.1]
+2020/02/29 23:09:38 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:09:38 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:09:38 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:40 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:09:40 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:09:40 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:41 GET /http.jpg HTTP/1.1
+
+2020/02/29 23:09:41 [GET /http.jpg HTTP/1.1]
+2020/02/29 23:09:41 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:09:41 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:09:41 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:43 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:09:43 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:09:43 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:09:51 GET /http.html?download HTTP/1.1
+
+2020/02/29 23:09:51 [GET /http.html?download HTTP/1.1]
+2020/02/29 23:10:03 GET /Go10.pdf?download HTTP/1.1
+
+2020/02/29 23:10:03 [GET /Go10.pdf?download HTTP/1.1]
+2020/02/29 23:12:36 GET / HTTP/1.1
+
+2020/02/29 23:12:36 [GET / HTTP/1.1]
+2020/02/29 23:12:36 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:36 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:36 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:12:39 GET /http.png?download HTTP/1.1
+
+2020/02/29 23:12:39 [GET /http.png?download HTTP/1.1]
+2020/02/29 23:12:40 GET /http.txt?download HTTP/1.1
+
+2020/02/29 23:12:40 [GET /http.txt?download HTTP/1.1]
+2020/02/29 23:12:41 GET /http.pdf?download HTTP/1.1
+
+2020/02/29 23:12:41 [GET /http.pdf?download HTTP/1.1]
+2020/02/29 23:12:41 GET /http.html?download HTTP/1.1
+
+2020/02/29 23:12:41 [GET /http.html?download HTTP/1.1]
+2020/02/29 23:12:42 GET /http.html HTTP/1.1
+
+2020/02/29 23:12:42 [GET /http.html HTTP/1.1]
+2020/02/29 23:12:42 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:42 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:42 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:12:44 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:44 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:44 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:12:44 GET /http.jpg HTTP/1.1
+
+2020/02/29 23:12:44 [GET /http.jpg HTTP/1.1]
+2020/02/29 23:12:44 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:44 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:44 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:12:45 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:45 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:45 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:12:46 GET /http.txt HTTP/1.1
+
+2020/02/29 23:12:46 [GET /http.txt HTTP/1.1]
+2020/02/29 23:12:46 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:46 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:46 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:12:47 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:12:47 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:12:47 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.

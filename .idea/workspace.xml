@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7b6e901-30f5-4121-998c-0c5fe6b26575" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1YUPmREJ4G6lXm7kIqXokozW6Ua" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmd/server/files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\goProjects\http-go-server\cmd\server\files" />
+      <recent name="C:\goProjects\http-go-server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/jafarsirojov/http-go-server/cmd/server">
+    <configuration name="go build github.com/jafarsirojov/http-go-server/cmd/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="http-go-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/server/server.go" />
+      <package value="github.com/jafarsirojov/http-go-server/cmd/server" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build http-go-server/cmd/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="http-go-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/server/server.go" />
+      <package value="http-go-server/cmd/server" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_serverStarting in http-go-server/cmd/server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="http-go-server" />
+      <working_directory value="$PROJECT_DIR$/cmd/server" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="http-go-server/cmd/server" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_serverStarting$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/jafarsirojov/http-go-server/cmd/server" />
+        <item itemvalue="Go Build.go build http-go-server/cmd/server" />
+        <item itemvalue="Go Test.Test_serverStarting in http-go-server/cmd/server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="9" key="#go_build_http-go-server/cmd/server" timestamp="1582999926754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="9" key="#go_build_http-go-server/cmd/server/0.0.1366.728@0.0.1366.728" timestamp="1582999926754" />
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1582999940019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582999940019" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1582999940019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582999940019" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1582999940018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582999940018" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1582999940019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582999940019" />
+  </component>
+</project>

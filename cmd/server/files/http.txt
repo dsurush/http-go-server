@@ -1,0 +1,6 @@
+                        Hello world!
+    Go was publicly announced in November 2009,[29] and version 1.0 was released in March 2012.[30][31] Go is widely used in production at Google[32] and in many other organizations and open-source projects.
+    Gopher mascot
+    In November 2016, the Go and Go Mono fonts, which are sans-serif and monospaced respectively, were released by type designers Charles Bigelow and Kris Holmes. Both fonts adhere to WGL4 and were designed to be legible, with a large x-height and distinct letterforms, by conforming to the DIN 1450 standard.[33][34]
+    In April 2018, the original logo was replaced with a stylized GO slanting right with trailing streamlines. However, the Gopher mascot remained the same.[35]
+    In August 2018, the Go principal contributors published two "draft designs" for new language features, Generics and error handling, and asked Go users to submit feedback on them.[36][37] Lack of support for generic programming and the verbosity of error handling in Go 1.x had drawn considerable criticism.
