@@ -11,7 +11,6 @@ import (
 	"strings"
 )
 
-const addr = "0.0.0.0:1111"
 
 func main() {
 	logFile, err := os.OpenFile("log.txt", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0666)
@@ -26,7 +25,12 @@ func main() {
 		}
 	}()
 
-	err = start(addr)
+	host:="0.0.0.0"
+	port, ok :=os.LookupEnv("PORT")
+	if !ok{
+		port="1111"
+	}
+	err = start(fmt.Sprintf("%s:%s", host, port))
 	if err != nil {
 		log.Fatalf("can't start func is error: %v\n", err)
 	}
