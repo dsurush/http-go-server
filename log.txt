@@ -2903,3 +2903,10 @@
 
 2020/02/29 23:12:47 [GET /favicon.ico HTTP/1.1]
 2020/02/29 23:12:47 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/02/29 23:48:39 GET / HTTP/1.1
+
+2020/02/29 23:48:39 [GET / HTTP/1.1]
+2020/02/29 23:48:39 GET /favicon.ico HTTP/1.1
+
+2020/02/29 23:48:39 [GET /favicon.ico HTTP/1.1]
+2020/02/29 23:48:39 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
