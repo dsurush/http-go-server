@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b6e901-30f5-4121-998c-0c5fe6b26575" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go05.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go06.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go07.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go08.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go09.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/Go10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/server/files/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/server/server.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,33 +106,37 @@
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583048345433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583048345433" />
     <state x="402" y="9" key="#go_build_http-go-server/cmd/server" timestamp="1582999926754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="9" key="#go_build_http-go-server/cmd/server/0.0.1366.728@0.0.1366.728" timestamp="1582999926754" />
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1583002139913">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1583041217665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583002139913" />
-    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1583002139913">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583041217665" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1583041217664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583002139913" />
-    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1583002139913">
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583041217664" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1583041217664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583002139913" />
-    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1583002139913">
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583041217664" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1583041217664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583002139913" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583041217664" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/server/server.go</url>
-          <line>24</line>
+          <line>23</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

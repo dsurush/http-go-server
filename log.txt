@@ -2910,3 +2910,27 @@
 
 2020/02/29 23:48:39 [GET /favicon.ico HTTP/1.1]
 2020/02/29 23:48:39 can't read file: open cmd/server/files/favicon.ico: The system cannot find the file specified.
+2020/03/01 12:41:40 GET / HTTP/1.1
+
+2020/03/01 12:41:40 [GET / HTTP/1.1]
+2020/03/01 12:41:41 GET /favicon.ico HTTP/1.1
+
+2020/03/01 12:41:41 [GET /favicon.ico HTTP/1.1]
+2020/03/01 12:41:43 GET /http.jpg HTTP/1.1
+
+2020/03/01 12:41:43 [GET /http.jpg HTTP/1.1]
+2020/03/01 12:41:43 GET /favicon.ico HTTP/1.1
+
+2020/03/01 12:41:43 [GET /favicon.ico HTTP/1.1]
+2020/03/01 12:41:44 GET /favicon.ico HTTP/1.1
+
+2020/03/01 12:41:44 [GET /favicon.ico HTTP/1.1]
+2020/03/01 12:41:45 GET /http.jpg?download HTTP/1.1
+
+2020/03/01 12:41:45 [GET /http.jpg?download HTTP/1.1]
+2020/03/01 12:41:47 GET /http.png?download HTTP/1.1
+
+2020/03/01 12:41:47 [GET /http.png?download HTTP/1.1]
+2020/03/01 12:41:54 GET /http.html?download HTTP/1.1
+
+2020/03/01 12:41:54 [GET /http.html?download HTTP/1.1]

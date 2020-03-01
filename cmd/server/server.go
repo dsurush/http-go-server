@@ -11,7 +11,6 @@ import (
 	"strings"
 )
 
-
 func main() {
 	logFile, err := os.OpenFile("log.txt", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0666)
 	if err != nil {
@@ -21,14 +20,14 @@ func main() {
 	defer func() {
 		err := logFile.Close()
 		if err != nil {
-			log.Fatalf("can't close logfile: %v\n",err)
+			log.Fatalf("can't close logfile: %v\n", err)
 		}
 	}()
 
-	host:="0.0.0.0"
-	port, ok :=os.LookupEnv("PORT")
-	if !ok{
-		port="1111"
+	host := "0.0.0.0"
+	port, ok := os.LookupEnv("PORT")
+	if !ok {
+		port = "1111"
 	}
 	err = start(fmt.Sprintf("%s:%s", host, port))
 	if err != nil {
@@ -81,34 +80,40 @@ func handleConn(conn net.Conn) {
 
 	method, request, protocol := parts[0], parts[1], parts[2]
 	if method != "GET" {
-		panic("")
+		return
 	}
-	if method == "GET" {
-		if protocol == "HTTP/1.1" {
-			if len(request) > (len("?download") + 3) {
-				if a := request[len(request)-9:]; a == "?download" {
-					handleHttp(conn, request[1:len(request)-9], contentTypeDownload)
-				}
-			} else {
-				if request == "/" {
-					handleHttp(conn, "index.html", contentTypeHtml)
-					return
-				}
-				requestHttp := request[1:]
-				ext:=make(map[string]string)
-				ext[".txt"]=contentTypeText
-				ext[".pdf"]=contentTypePdf
-				ext[".png"]=contentTypePng
-				ext[".jpg"]=contentTypeJpg
-				ext[".html"]=contentTypeHtml
-				contentType, ok :=ext[filepath.Ext(requestHttp)]
-				if !ok {
-					handleHttp(conn, "404.html", contentTypeHtml)
-				}
-				handleHttp(conn, requestHttp, contentType)
-			}
+
+	if protocol != "HTTP/1.1" {
+		handleHttp(conn, "index.html", contentTypeHtml)
+		return
+	}
+
+	if len(request) > (len("?download") + 3) {
+		if a := request[len(request)-9:]; a == "?download" {
+			handleHttp(conn, request[1:len(request)-9], contentTypeDownload)
+			return
 		}
+		handleHttp(conn, "index.html", contentTypeHtml)
+		return
 	}
+	if request == "/" {
+		handleHttp(conn, "index.html", contentTypeHtml)
+		return
+	}
+	requestHttp := request[1:]
+	ext := make(map[string]string)
+	ext[".txt"] = contentTypeText
+	ext[".pdf"] = contentTypePdf
+	ext[".png"] = contentTypePng
+	ext[".jpg"] = contentTypeJpg
+	ext[".html"] = contentTypeHtml
+	contentType, ok := ext[filepath.Ext(requestHttp)]
+	if !ok {
+		handleHttp(conn, "404.html", contentTypeHtml)
+		return
+	}
+	handleHttp(conn, requestHttp, contentType)
+	return
 }
 
 func handleHttp(conn net.Conn, fileName string, contentType string) {
